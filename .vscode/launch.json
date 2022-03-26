@@ -1,0 +1,595 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch CourseSched",
+            "request": "launch",
+            "mainClass": "Blind75.CourseSched",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumIslands",
+            "request": "launch",
+            "mainClass": "Blind75.NumIslands",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch MSQ1",
+            "request": "launch",
+            "mainClass": "MSQ1",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongComnSubseq",
+            "request": "launch",
+            "mainClass": "Blind75.LongComnSubseq",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch LevelOrderTrav",
+            "request": "launch",
+            "mainClass": "Graph.LevelOrderTrav",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch UniquePaths",
+            "request": "launch",
+            "mainClass": "Blind75.UniquePaths",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch DecodeWays",
+            "request": "launch",
+            "mainClass": "Blind75.DecodeWays",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AltEvenOdd",
+            "request": "launch",
+            "mainClass": "AltEvenOdd",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch BST",
+            "request": "launch",
+            "mainClass": "BST",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearchQs.BinarySearch",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ceiling",
+            "request": "launch",
+            "mainClass": "BinarySearchQs.Ceiling",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindPivot",
+            "request": "launch",
+            "mainClass": "BinarySearchQs.FindPivot",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch StartEndOfTarget",
+            "request": "launch",
+            "mainClass": "BinarySearchQs.StartEndOfTarget",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClimbStars",
+            "request": "launch",
+            "mainClass": "Blind75.ClimbStars",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch CoinChange",
+            "request": "launch",
+            "mainClass": "Blind75.CoinChange",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch CombinationSum",
+            "request": "launch",
+            "mainClass": "Blind75.CombinationSum",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountBits",
+            "request": "launch",
+            "mainClass": "Blind75.CountBits",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindMinInRotated",
+            "request": "launch",
+            "mainClass": "Blind75.FindMinInRotated",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch GraphCopy",
+            "request": "launch",
+            "mainClass": "Blind75.GraphCopy",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch HouseRobber",
+            "request": "launch",
+            "mainClass": "Blind75.HouseRobber",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch HouseRobber2",
+            "request": "launch",
+            "mainClass": "Blind75.HouseRobber2",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongIncrSub",
+            "request": "launch",
+            "mainClass": "Blind75.LongIncrSub",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PacificAtlantic",
+            "request": "launch",
+            "mainClass": "Blind75.PacificAtlantic",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PacificAtlanticOC",
+            "request": "launch",
+            "mainClass": "Blind75.PacificAtlanticOC",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProductExceptSelf",
+            "request": "launch",
+            "mainClass": "Blind75.ProductExceptSelf",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseBits",
+            "request": "launch",
+            "mainClass": "Blind75.ReverseBits",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotatedSearch",
+            "request": "launch",
+            "mainClass": "Blind75.RotatedSearch",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stock",
+            "request": "launch",
+            "mainClass": "Blind75.Stock",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumWOPlus",
+            "request": "launch",
+            "mainClass": "Blind75.SumWOPlus",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreeSum",
+            "request": "launch",
+            "mainClass": "Blind75.ThreeSum",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch WordBreak",
+            "request": "launch",
+            "mainClass": "Blind75.WordBreak",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConstructStr",
+            "request": "launch",
+            "mainClass": "ConstructStr",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch StreamsTest",
+            "request": "launch",
+            "mainClass": "CoreJava.StreamsTest",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch CycleSort",
+            "request": "launch",
+            "mainClass": "CycleSort.CycleSort",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch MissingNum",
+            "request": "launch",
+            "mainClass": "CycleSort.MissingNum",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch howSum",
+            "request": "launch",
+            "mainClass": "DP.howSum",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch FactRec",
+            "request": "launch",
+            "mainClass": "FactRec",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch FactZeros",
+            "request": "launch",
+            "mainClass": "FactZeros",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch FracKnapsack",
+            "request": "launch",
+            "mainClass": "FracKnapsack",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Djikstra",
+            "request": "launch",
+            "mainClass": "Graph.Djikstra",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConsecSubSeq",
+            "request": "launch",
+            "mainClass": "Hashing.ConsecSubSeq",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountFreq",
+            "request": "launch",
+            "mainClass": "Hashing.CountFreq",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch DstctElmtsWindow",
+            "request": "launch",
+            "mainClass": "Hashing.DstctElmtsWindow",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch DstnctElmts",
+            "request": "launch",
+            "mainClass": "Hashing.DstnctElmts",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch GivenSSALongest",
+            "request": "launch",
+            "mainClass": "Hashing.GivenSSALongest",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch GivenSumSubArr",
+            "request": "launch",
+            "mainClass": "Hashing.GivenSumSubArr",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ZeroSubarray",
+            "request": "launch",
+            "mainClass": "Hashing.ZeroSubarray",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch KClosest",
+            "request": "launch",
+            "mainClass": "Heaps.KClosest",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch KLargest",
+            "request": "launch",
+            "mainClass": "Heaps.KLargest",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch KSorted",
+            "request": "launch",
+            "mainClass": "Heaps.KSorted",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeArrays",
+            "request": "launch",
+            "mainClass": "Heaps.MergeArrays",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinHeap",
+            "request": "launch",
+            "mainClass": "Heaps.MinHeap",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrioQueue",
+            "request": "launch",
+            "mainClass": "Heaps.PrioQueue",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch AlienSort",
+            "request": "launch",
+            "mainClass": "Leet.AlienSort",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstMissingPositive",
+            "request": "launch",
+            "mainClass": "Leet.FirstMissingPositive",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch GraphCopy(1)",
+            "request": "launch",
+            "mainClass": "Leet.GraphCopy",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "Leet.HelloWorld",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch LLAdd",
+            "request": "launch",
+            "mainClass": "Leet.LLAdd",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongestSubStr",
+            "request": "launch",
+            "mainClass": "Leet.LongestSubStr",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Result",
+            "request": "launch",
+            "mainClass": "Leet.Result",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse",
+            "request": "launch",
+            "mainClass": "Leet.Reverse",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringDecode",
+            "request": "launch",
+            "mainClass": "Leet.StringDecode",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch TEST",
+            "request": "launch",
+            "mainClass": "Leet.TEST",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch TEST2",
+            "request": "launch",
+            "mainClass": "Leet.TEST2",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch TEST3",
+            "request": "launch",
+            "mainClass": "Leet.TEST3",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch TEST4",
+            "request": "launch",
+            "mainClass": "Leet.TEST4",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSum",
+            "request": "launch",
+            "mainClass": "Leet.TwoSum",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxSubarray",
+            "request": "launch",
+            "mainClass": "LeetDS.MaxSubarray",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSortedArrs",
+            "request": "launch",
+            "mainClass": "LeetDS.MergeSortedArrs",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch checkDuplicate",
+            "request": "launch",
+            "mainClass": "LeetDS.checkDuplicate",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxProdSubArr",
+            "request": "launch",
+            "mainClass": "MaxProdSubArr",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxSumSub",
+            "request": "launch",
+            "mainClass": "MaxSumSub",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch NQueen",
+            "request": "launch",
+            "mainClass": "NQueen",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch QSort",
+            "request": "launch",
+            "mainClass": "QSort",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch RainWater",
+            "request": "launch",
+            "mainClass": "RainWater",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch RatMaze",
+            "request": "launch",
+            "mainClass": "RatMaze",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch SamsungQ1",
+            "request": "launch",
+            "mainClass": "SamsungQ1",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PascalTriangle",
+            "request": "launch",
+            "mainClass": "Striver.PascalTriangle",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetMatrixZero",
+            "request": "launch",
+            "mainClass": "Striver.SetMatrixZero",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch TOH",
+            "request": "launch",
+            "mainClass": "TOH",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch countBitsToN",
+            "request": "launch",
+            "mainClass": "countBitsToN",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
+            "name": "Launch powerSet",
+            "request": "launch",
+            "mainClass": "powerSet",
+            "projectName": "Code Practice_d2f6703e"
+        }
+    ]
+}

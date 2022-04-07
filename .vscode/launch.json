@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch GoodNodes",
+            "request": "launch",
+            "mainClass": "Leet.GoodNodes",
+            "projectName": "Code Practice_d2f6703e"
+        },
+        {
+            "type": "java",
             "name": "Launch CourseSched",
             "request": "launch",
             "mainClass": "Blind75.CourseSched",

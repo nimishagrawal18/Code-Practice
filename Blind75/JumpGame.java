@@ -11,7 +11,8 @@ public class JumpGame {
         while (!Q.isEmpty()) {
             int x = Q.poll();
             if (x==nums.length-1) return true;
-            int 
+            int y= hs.size();
+            x=y;
         }
         return false;
     }

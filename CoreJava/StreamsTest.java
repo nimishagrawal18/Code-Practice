@@ -5,10 +5,13 @@ package CoreJava;
 import java.util.ArrayDeque;
 // import java.util.ArrayList;
 import java.util.Arrays;
+
+import java.util.Collections;
 // import java.util.Collections;
 import java.util.List;
 // import java.util.TreeSet;
-// import java.util.PriorityQueue;
+import java.util.PriorityQueue;
+import java.util.TreeMap;
 // import java.util.Random;
 import java.util.stream.Collectors;
 // import java.util.stream.Stream;
@@ -38,6 +41,22 @@ public class StreamsTest {
 
         // TreeSet<Integer> ts = new TreeSet<>();
         
+        TreeMap<Integer,Integer> tm = new TreeMap<>();
+        tm.put(1, tm.getOrDefault(1, 0)+1);
+        tm.put(3, tm.getOrDefault(3, 0)+1);
+        tm.put(1, tm.getOrDefault(1, 0)+1);
+        tm.put(5, tm.getOrDefault(5, 0)+1);
+        tm.put(2, tm.getOrDefault(2, 0)+1);
+        tm.put(7, tm.getOrDefault(7, 0)+1);
+        tm.put(7, tm.getOrDefault(7, 0)+1);
+
+        ArrayDeque<Integer> Q = new ArrayDeque<>();
+
+    
+
+        // while () {
+        //     System.out.println(integer);
+        // }
 
         // ArrayList<Integer> it = new ArrayList<Integer>();
         
@@ -48,5 +67,18 @@ public class StreamsTest {
         //     System.out.println(i);
         // }
         // System.out.println(li);
+
+        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder()); // Making this a Max heap
+        pq.add(2);
+        pq.add(4);
+        pq.add(1);
+        pq.add(6);
+        pq.add(8);
+        System.out.println(pq.poll());
+        System.out.println(pq.poll());
+        System.out.println(pq.poll());
+        System.out.println(pq.poll());
+        System.out.println(pq.poll());
+        System.out.println(pq.poll());
     }
 }
